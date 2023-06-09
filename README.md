@@ -1,5 +1,5 @@
-- 👋 Hi, @mo29368 here
-- **SKILLSET**
+👋 Hi, @mo29368 here
+**SKILLSET**
 - PHP (Vanilla, Laravel)
 - HTML&CSS
 - Javascript
